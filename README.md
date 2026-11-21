@@ -30,6 +30,8 @@ You can modify it in `.github/workflows/run.yml`
 # Content
 [README](data/README.md)
 
+[2026-11-21](data/2026-11-21.md)
+
 [2026-11-20](data/2026-11-20.md)
 
 [2026-11-19](data/2026-11-19.md)
